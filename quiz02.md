@@ -1,10 +1,10 @@
 # SPR200 - Quiz Submission Template
 
 **Student Information:**
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
-- **GitHub Username:** [Your GitHub Username]
-- **Quiz Number:** [e.g., Quiz 01, Quiz 02, etc.]
+- **Name:** Avery Yong
+- **Student ID:** 059789115
+- **GitHub Username:** SenCoAyon
+- **Quiz Number:**  Quiz 02
 
 ---
 
@@ -26,53 +26,53 @@ Example of how you should answer a question:
 ## Start your quiz answers below
 ---
 ### Question 1:
-**Answer:** [Your Answer]
+**Answer:** AD
 
 
 ---
 
 ### Question 2:
-**Answer:** [Your Answer]
+**Answer:** BC
 
 ---
 
 
 ### Question 3:
-**Answer:** [Your Answer]
+**Answer:** ABD
 
 ---
 
 ### Question 4:
-**Answer:** [Your Answer]
+**Answer:** BD
 
 ---
 
 ### Question 5:
-**Answer:** [Your Answer]
+**Answer:** AB
 
 ---
 
 ### Question 6:
-**Answer:** [Your Answer]
+**Answer:** AD
 
 ---
 
 ### Question 7:
-**Answer:** [Your Answer]
+**Answer:** ACD
 
 ---
 
 ### Question 8:
-**Answer:** [Your Answer]
+**Answer:** ABC
 
 ---
 
 ### Question 9:
-**Answer:** [Your Answer]
+**Answer:** ACD
 
 ---
 
 ### Question 10:
-**Answer:** [Your Answer]
+**Answer:** BC
 
 ---
